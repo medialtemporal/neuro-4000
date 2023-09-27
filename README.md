@@ -1,2 +1,3 @@
-# neuro-4000
-honours thesis work
+# Neuroscience 4000E project
+Using FMRIB Software Library (FSL) and MRtrix for image processing.
+
